@@ -1,0 +1,50 @@
+#bearing-angle {
+  font-size: 24px;
+}
+
+#bearing-target {
+  font-size: 24px;
+}
+
+#altitude-angle {
+  font-size: 24px;
+}
+
+#altitude-target {
+  font-size: 24px;
+
+}
+
+#phone-loc {
+  font-size: 24px;
+
+}
+
+#glider-loc {
+  font-size: 24px;
+
+}
+
+#glider-acc {
+  font-size: 24px;
+
+}
+
+canvas {
+  max-width: 100%;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
